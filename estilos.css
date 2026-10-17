@@ -13,7 +13,7 @@ table tr:hover{
     background:#ccc;
 }
 
-table td{
+table td:hover{
     background: #000;
     color:#fff;
 }
